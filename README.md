@@ -1,2 +1,3 @@
-# brainfuck_interpreter_in_every_language
-brainfuck interpreter in every language
+# brainfuck interpreter in every language
+
+writing brainfuck interpreter in every language
